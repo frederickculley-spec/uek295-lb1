@@ -1,0 +1,8 @@
+{
+  "username": "admin",
+  "password": "HIER_LOKALES_PASSWORT_EINTRAGEN",
+  "db_host": "127.0.0.1",
+  "db_user": "root",
+  "db_password": "",
+  "db_name": "uek295_lb1"
+}
