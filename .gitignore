@@ -1,0 +1,5 @@
+# Lokale Konfiguration mit Zugangsdaten
+/config.json
+
+# Von Composer installierte Bibliotheken
+/vendor/
