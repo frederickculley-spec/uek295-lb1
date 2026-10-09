@@ -21,6 +21,8 @@ Installation
 6. In config.json die Daten für die lokale Datenbank eintragen. Auch den Passwort-Platzhalter ersetzen. Das Passwort muss gleich sein wie beim Authenticate-Request in der Bruno-Collection.
 
 Die echte config.json wird nicht auf GitHub hochgeladen, weil dort die lokalen Zugangsdaten drin sind.
+Die Datei config.json wird der Kursleitung separat über Teams beigelegt. Für die Installation wird sie in den Projektordner uek295-lb1 kopiert. Alternativ kann eine eigene Konfiguration aus config.example.json erstellt werden.
+
 
 Der Ordner vendor wird auch nicht hochgeladen.
 Mit composer install werden die benötigten Bibliotheken installiert.
